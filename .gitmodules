@@ -1,6 +1,9 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/swarupcs/Dev-Collab-Frontend.git
 [submodule "backend"]
-	path = backend
-	url = https://github.com/swarupcs/Dev-Collab-Backend.git
+    path = backend
+    url = https://github.com/swarupcs/Dev-Collab-Backend.git
+    branch = main
+
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/swarupcs/Dev-Collab-Frontend.git
+    branch = main
